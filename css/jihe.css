@@ -1,0 +1,65 @@
+.aixindongtai{margin: 0 auto;display:block;margin-top: 40px;}
+/*lunbo*/
+
+
+.lb{display:block; position: relative;padding-bottom: 46px;    overflow: hidden;background: #f3f3f3;}
+.lb-banner{width: 1210px;margin: 0 auto;overflow: hidden;padding:14px;margin-top: 100px;position: relative;}
+.lb ul{  width: 15500px;margin: 0 auto; }
+.lb ul li{width:267px;float: left;margin-right: 30px;border: 5px solid transparent;cursor: pointer;}
+.lb ul li:last-child{margin-right: 0;}
+.lb ul li:hover{transform: scale(1.1,1.1);border: 5px solid #dc1818;}
+.lb ul li:hover p{height: 52px;line-height: 52px;}
+.lb ul li img{width: 100%;height: 194px;display: block;}
+.lb ul li p{height: 56px;line-height: 56px;text-align: center;font-size: 18px;color:#252525;background: white;}
+/*.jiantou{position: absolute;top: 260px;width: 1200px;margin-left: 50%;left: -600px;}*/
+/*.jiantou img{cursor: pointer;}*/
+.zuojiantou,.youjiantou{position: absolute;top: 260px;}
+.zuojiantou{;}
+.youjiantou{right: 0;}
+.al{width: 100%;background: white;    overflow: hidden;padding-bottom: 20px;}
+.al>img{margin: 0 auto;    display: block;margin-top: 40px;}
+/*??????*/
+.box{width: 1200px;margin: 0 auto;margin-top: 130px;position: relative}
+.yuan{width: 468px;height:468px;border-radius: 50%;position: absolute;text-align: center;top: 0;left: 0;right: 0;bottom: 0;margin: auto;}
+
+
+
+.box{width: 607px;margin: 0 auto;padding-top: 50px;position: relative;}
+.one{text-align: center;    overflow: hidden;}
+.one-one{width: 136px;float: left;}
+.one-two{width: 136px;float: right;}
+.one img{display: block;margin: 0 auto;}
+.one p{font-size: 17px;color: #444;margin-top: 12px;}
+.two{margin-top: 344px;}
+#anniu{display: block;margin:0 auto; margin-top: 75px;}
+/*hezuo*/
+.hezuo{overflow: hidden;padding-bottom: 50px;background: #f3f3f3;}
+.hezuo>img{display: block;margin: 0 auto;margin-top: 40px;}
+.hezuolb{width: 1200px;margin: 0 auto;overflow: hidden}
+.hz-banner{width: 1200px;margin: 0 auto;overflow: hidden;position:relative;}
+.hezuo ul{width: 12200px;margin: 0 auto; margin-top: 69px;}
+.hezuo ul li{float: left;width: 230px;height: 220px;position: relative;margin-right: 93px;text-align: center;line-height: 220px;}
+.hezuo ul li:hover{background: white;}
+
+/*Ðý×ª²¿·Ö*/
+.smile{font-size: 16px;    overflow: hidden;float: left;   cursor: pointer;position: absolute;}
+.smile img{display: block;}
+.smile p{margin-top: 12px;opacity: 0;color: #444;font-size: 17px;text-align: center;}
+.smile:hover p{opacity: 1;}
+.box{width: 512px;height: 511px;position: relative;margin: 0 auto;margin-top: 50px;}
+.zhongjian{z-index: 1; width: 325px;height: 326px;background: url("../img/zhongjian.png");background-size:100%;position: absolute;top: 0;left: 0;right: 0;bottom: 0;margin: auto;}
+.one{top:0 ;left: 0;}
+.twoo{top:0 ;right: 0;}
+.three{bottom:15px ;left: 0;}
+.fore{bottom:15px ;right: 0;}
+.box1{width: 500px;height: 540px;   transition: all .5s linear;position: relative;margin-left: 6px;margin-top: -40px;transform-origin:50% 50%;}
+.img{    overflow: hidden; display: none; position: absolute;width: 297px;height: 181px;background: url("../img/duihuakuang.png");left: -325px;font-size: 12px;}
+.img2{ overflow: hidden; display: none; position: absolute;width: 297px;height: 181px;background: url("../img/duihuakuang.png");left: -325px;font-size: 12px;bottom: 0;}
+.img1{ overflow: hidden; display: none; position: absolute;width: 297px;height: 181px;background:  url("../img/duihuakuang11.png");font-size: 12px;right: -325px;}
+.img3{  overflow: hidden; display:none; position: absolute;width: 297px;height: 181px;background:  url("../img/duihuakuang11.png");font-size: 12px;right: -325px;bottom: 0;}
+.img p{margin: 17px 34px 0 17px; overflow: hidden;height: 133px}
+.img2 p{margin: 17px 34px 0 17px; overflow: hidden;height:133px}
+.img1 p{margin: 17px 17px 0 34px; overflow: hidden;height: 133px}
+.img3 p{margin: 17px 17px 0 34px; overflow: hidden;height: 133px}
+.box>div>p{display: none;font-size: 12px;color: #000;}
+
